@@ -47,7 +47,7 @@ L'évaluation des performances des footballeurs se limite souvent aux simples to
 Le score global sur $100$ points repose sur la formule pondérée suivante :
 
 $$
-Score = (3,5 \times Note_{GA90}) + (2,0 \times Note_{PPM}) + (1,5 \times Note_{SoT\%}) + (1,5 \times Note_{Def}) + (1,5 \times Note_{Min})
+Score = (3.5 \times Note_{\text{GA90}}) + (2.0 \times Note_{\text{PPM}}) + (1.5 \times Note_{\text{SoT\%}}) + (1.5 \times Note_{\text{Def}}) + (1.5 \times Note_{\text{Min}})
 $$
 
 Chaque métrique est ramenée sur une échelle de $0$ à $10$ selon la formule de normalisation Min-Max :
